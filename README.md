@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋, I'm a fellow dev :)</h1>
-<h3 align="left">A chill frontend developer from India</h3>
+<h3 align="left">An Independent developer from India</h3>
 
 - 🔭 I’m currently working on **something...**
 
 - 🌱 I’m currently learning **react**
 
-- 👯 I’m looking to collaborate on **web apps**
+- 👯 I’m looking to collaborate on **web based applications**
 
 - 📫 Reach me at [mail](navneetmohan01@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
 <a href="https://linkedin.com/in/navneet mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet mohan" height="30" width="40" /></a>
 </p>
