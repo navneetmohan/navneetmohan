@@ -3,7 +3,7 @@
 
 <td width="40%" align="center">
 
-<img src="mudamuda.gif" width="500">
+<img src="mudamuda.gif" width="400">
 
 </td>
 
