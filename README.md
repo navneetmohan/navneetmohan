@@ -1,4 +1,4 @@
-<table> <tr> <td width="40%" align="center"> <img src="mudamuda.gif" width="500"> </td> <td width="60%">
+<table> <tr> <td width="50%" align="center"> <img src="mudamuda.gif" width="500"> </td> <td width="50%">
 
 # Hi
 
@@ -6,8 +6,7 @@
 
 * Built Android apps in **Kotlin**
 * AI, Computer Vision & LLMs
-* Cybersecurity
-* CTFs
+* Cybersecurity & CTFs
   
 
 
