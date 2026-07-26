@@ -1,41 +1,35 @@
-<table>
-<tr>
-
-<td width="40%" align="center">
-
-<img src="mudamuda.gif" width="400">
-
-</td>
-
-<td width="60%">
+<table> <tr> <td width="40%" align="center"> <img src="mudamuda.gif" width="500"> </td> <td width="30%">
 
 # Hi
-**Android Developer • AI Engineer • Full Stack Developer**
 
-- Building Android apps with **Kotlin & Jetpack Compose**
-- Exploring **AI, Computer Vision & LLMs**
-- Interested in **Cybersecurity & CTFs**
+**Android • AI • Full Stack Developer**
 
-### 🛠 Tech Stack
+* Built Android apps in **Kotlin**
+* AI, Computer Vision & LLMs
+* Cybersecurity
+* CTFs
+  
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,c,js,html,css" />
-</p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,fastapi,tensorflow,pytorch,react,git,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,c,js,css" /><br>
 </p>
 
-### Featured
+| Project | Description |
+|---------|-------------|
+| 💰 **PennyWise** | AI-powered expense tracker |
+| 👕 **DripCheck** | AI outfit analyzer |
+| 🔐 **Encryption** | Custom file encryption *(WIP)* |
 
-- PennyWise
-- DripCheck
-- Encryption Algorithm *(WIP)*
+<a href="mailto:navneetmohan007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="42">
+</a>
 
-### 📫 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:navneetmohan007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navneetmohan007)
+
+<a href="https://linkedin.com/in/navneetmohan007">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42">
+</a>
 
 </td>
 
