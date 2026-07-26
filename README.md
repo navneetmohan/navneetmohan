@@ -1,4 +1,4 @@
-<table> <tr> <td width="50%" align="center"> <img src="mudamuda.gif" width="500"> </td> <td width="50%">
+<table> <tr> <td width="50%" align="center"> <img src="mudamuda.gif" width="450"> </td> <td width="50%">
 
 # Hi
 
