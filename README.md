@@ -1,65 +1,44 @@
-<h1 align="center">Navneet</h1>
+<table>
+<tr>
 
-<p align="center">
-Android Developer • AI Engineer • Fullstack Dev
-</p>
+<td width="40%" align="center">
 
-### About
+<img src="https://i.pinimg.com/originals/93/d6/72/93d672b9ecb0a41ae086d993164db20f.gif" width="500">
 
-- Built android apps with **Kotlin + Jetpack Compose**
-- Worked in **Machine Learning, Computer Vision and AI-powered products**
-- Passionate about **Cybersecurity & CTFs**
+</td>
 
-### Exploring
+<td width="60%">
 
-- Kotlin
-- Android Architecture (MVVM)
-- FastAPI
-- LLM Applications
-- Explainable AI
+# Hi, It's me Navneet
 
----
+**Android Developer • AI Engineer • Full Stack Developer**
 
-### Open to Collaborate
+- Building Android apps with **Kotlin & Jetpack Compose**
+- Exploring **AI, Computer Vision & LLMs**
+- Interested in **Cybersecurity & CTFs**
 
-- Android Applications
-- AI/ML Projects
-- Open Source
-- Backend APIs
-- Research Projects
-
----
-
-## Tech Stack :
-
-### Languages
+### 🛠 Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,kotlin,java,c,js,html,css" />
 </p>
 
-### Frameworks & Libraries
-
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,fastapi,tensorflow,pytorch,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=androidstudio,fastapi,tensorflow,pytorch,react,git,firebase,mysql" />
 </p>
 
----
+### Featured
 
-## Featured :
+- PennyWise
+- DripCheck
+- Encryption Algorithm *(WIP)*
 
-### PennyWise
-AI-powered Android expense tracker using Notification Listener, Room Database and Jetpack Compose.
+### 📫 Connect
 
-### DripCheck
-AI fashion analyzer that generates drip scores, style analysis and meme cards using Gemini Vision.
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:navneetmohan007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navneetmohan007)
 
-### Encryption Algorithm (WIP)
-Experimental cryptography project focused on secure file encryption.
+</td>
 
----
-
-### Contact :
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navneetmohan007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navneetmohan007)
+</tr>
+</table>
