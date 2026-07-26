@@ -3,14 +3,13 @@
 
 <td width="40%" align="center">
 
-<img src="https://i.pinimg.com/originals/93/d6/72/93d672b9ecb0a41ae086d993164db20f.gif" width="500">
+<img src="mudamuda.gif" width="500">
 
 </td>
 
 <td width="60%">
 
-# Hi, It's me Navneet
-
+# Hi
 **Android Developer • AI Engineer • Full Stack Developer**
 
 - Building Android apps with **Kotlin & Jetpack Compose**
