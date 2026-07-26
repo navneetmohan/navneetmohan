@@ -24,12 +24,6 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="42">
 </a>
 
-
-
-<a href="https://linkedin.com/in/navneetmohan007">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42">
-</a>
-
 </td>
 
 </tr>
