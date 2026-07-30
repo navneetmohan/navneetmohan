@@ -17,7 +17,7 @@
 | Project | Description |
 |---------|-------------|
 | 💰 **PennyWise** | NLP-powered expense tracker |
-| 👕 **DripCheck** | AI outfit analyzer |
+| 👕 **DRIVN** | AI outfit analyzer |
 | 🔐 **Encryption** | Custom file encryption *(WIP)* |
 
 <a href="mailto:navneetmohan007@gmail.com">
