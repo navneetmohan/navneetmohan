@@ -16,7 +16,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 💰 **PennyWise** | AI-powered expense tracker |
+| 💰 **PennyWise** | NLP-powered expense tracker |
 | 👕 **DripCheck** | AI outfit analyzer |
 | 🔐 **Encryption** | Custom file encryption *(WIP)* |
 
