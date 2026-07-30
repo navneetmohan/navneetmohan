@@ -16,9 +16,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 💰 **PennyWise** | NLP-powered expense tracker |
-| 👕 **DRIVN** | AI outfit analyzer |
-| 🔐 **Encryption** | Custom file encryption *(WIP)* |
+| **PennyWise** | NLP-powered expense tracker |
+| **DRIVN** | AI outfit analyzer |
+| **Encryption** | Custom file encryption *(WIP)* |
 
 <a href="mailto:navneetmohan007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="42">
